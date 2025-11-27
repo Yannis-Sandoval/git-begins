@@ -1,2 +1,3 @@
 Pour cloner un repository, écrire: git clone [url du repository]
 Les trois commandes de push sont push, commit et add
+Pour pull, écrire pull
